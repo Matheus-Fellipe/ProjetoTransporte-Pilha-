@@ -1,0 +1,12 @@
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Fila)\projTransporte\bin\Debug\projTransporte.exe.config
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Fila)\projTransporte\bin\Debug\projTransporte.exe
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Fila)\projTransporte\bin\Debug\projTransporte.pdb
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Fila)\projTransporte\obj\Debug\ProjetoTransporte.csprojAssemblyReference.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Fila)\projTransporte\obj\Debug\projTransporte.Properties.Resources.resources
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Fila)\projTransporte\obj\Debug\ProjetoTransporte.Views.FormPassageiro.resources
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Fila)\projTransporte\obj\Debug\ProjetoTransporte.Views.Terminal.resources
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Fila)\projTransporte\obj\Debug\ProjetoTransporte.Views.FormVeiculo.resources
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Fila)\projTransporte\obj\Debug\ProjetoTransporte.csproj.GenerateResource.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Fila)\projTransporte\obj\Debug\ProjetoTransporte.csproj.CoreCompileInputs.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Fila)\projTransporte\obj\Debug\projTransporte.exe
+C:\Users\Gil\Desktop\ED 2\ProjetoTransporte(Fila)\projTransporte\obj\Debug\projTransporte.pdb
